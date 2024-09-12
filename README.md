@@ -25,6 +25,6 @@ Senhas: Atualize suas senhas se caso você clicou em algum link que pediu suas i
 <br>
 Eduque-se sobre phishing: Saiba mais sobre como identificar e evitar ataques de phishing. Visite o site <a href="https://www.cloudflare.com/pt-br/learning/email-security/how-to-prevent-phishing/">Entenda o que é um phishing</a> para mais informações.
 <br>
-Atenciosamente
+Atenciosamente<br>
 Ana Beatriz 2º DS
 </p>
